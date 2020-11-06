@@ -1,4 +1,4 @@
-# Titanic Survival
+# Titanic Survival Model
 
 ## Objective:
 In this project, I attempt to analyze a popular dataset in Kaggale about Titanic. The dataset contains number of features about the passengers. 
